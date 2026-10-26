@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, nonexistent_function
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
